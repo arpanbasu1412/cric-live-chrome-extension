@@ -1,12 +1,12 @@
 {
-    "name": "My Chrome Extension",
+    "name": "Cric-Live Extension",
     "version": "1.0.0",
     "description": "Best extension in the world",
     "manifest_version": 3,
-    "author": "Deevankshu Garg",
+    "author": "Arpan Basu",
     "action": {
         "default_popup": "index.html",
-        "default_title": "My Chrome Extension",
+        "default_title": "Cric-Live Extension",
         "default_icon": "logo.png"
     },
     "icons": {
